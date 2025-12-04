@@ -1,3 +1,5 @@
+# Optimizing Indoor Perovskite and Tandem Photovoltaics 
+
 This report develops and optimizes 2T all-perovskite tandem solar cells for indoor white
 LED harvesting. Single-junction perovskites show limits from the Jsc–Voc trade-off, 
 thermalization, and transmission losses, motivating a shift to tandems. A 2.1 eV CsPbBr₃ 
